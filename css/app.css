@@ -1,0 +1,183 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-logo{
+
+}
+
+.header-menu ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-buybutton{
+
+}
+
+.slider{
+    display: flex;
+    flex-direction: column;
+}
+
+.slider-image{
+
+}
+
+.slider-title{
+
+}
+
+.slider-button{
+
+}
+
+.featured{
+
+}
+
+.featured-title{
+
+}
+
+.featured-description{
+
+}
+
+.featured-items{
+    display: flex;
+    justify-content: space-between;
+}
+
+.featured-item{
+
+}
+
+.featured-item-image{
+
+}
+
+
+.details{
+    display: flex;
+    justify-content: space-between;
+}
+
+.details-column{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.detail{
+
+}
+
+.detail-icon{
+
+}
+
+.detail-info{
+
+}
+
+.detail-title{
+
+}
+
+.detail-description{
+
+}
+
+.details-colum{
+
+}
+
+.detail-image{
+
+}
+
+
+.team{
+
+}
+
+.team-title{
+
+}
+
+.team-item-description{
+
+}
+
+.team-items{
+    display: flex;
+    justify-content: space-between;
+}
+
+.team-item{
+
+}
+
+.team-item-image{
+
+}
+
+.team-item-title{
+
+}
+
+.team-item-description{
+
+}
+
+.contact{
+
+}
+
+.contact-map{
+
+}
+
+.contact-address{
+
+}
+
+.address-title{
+
+}
+
+.contact-item{
+    display: flex;
+}
+
+.address-icon{
+
+}
+
+.address-description{
+
+}
+
+.address-contact-button{
+
+}
+
+.footer-social-networks{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-social-network{
+
+}
+
+.footer-menu nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-copyright{
+
+}
