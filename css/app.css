@@ -200,6 +200,99 @@ video{
 .featured-item-description p{
     text-align: center;
 }
+.faqs{
+text-align: center;
+
+}
+.faqs-title h2{
+    font-size: 3rem;
+    margin: 3rem;
+}
+
+.faqs-description{
+    font-family:  sans-serif;
+    font-size: 1.5rem;
+}
+
+.faqs-items{
+    margin: 5% 10%;
+    width: 80%;
+}
+
+.faqs-item{
+    
+}
+
+.faqs-item-header{
+    border-bottom: 2px solid hsl(0, 0%, 50%);
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0;
+}
+
+.faqs-item-title h3{
+    font-size: 2rem;
+}
+
+.faqs-item-icon svg{
+    width: 2rem;
+}
+
+.faqs-item-description{
+    padding: 1rem 0;
+}
+
+.faqs-item-description p{
+    text-align: left;
+}
+
+.faqs-item{
+
+}
+
+.faqs-item-header{
+
+}
+
+.faqs-item-title{
+
+}
+
+.faqs-item-icon{
+
+}
+
+.faqs-item{
+
+}
+
+.faqs-item-header{
+
+}
+
+.faqs-item-title{
+
+}
+
+.faqs-item-icon{
+
+}
+
+.faqs-item{
+
+}
+
+.faqs-item-header{
+
+}
+
+.faqs-item-title{
+
+}
+
+.faqs-item-icon{
+
+}
 
 .details{
     display: flex;
@@ -233,6 +326,9 @@ video{
 
 
 .team{
+    display: flex;
+    flex-direction: column;
+    font-size: 1rem;
 
 }
 
